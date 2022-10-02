@@ -3,7 +3,8 @@
 
 ## Assignment 2: Needs Assessment
 #### Needs
-How fast something operates, 
+How fast something operates
+
 Automation,
 Cost of operation,
 Precision of mesurements,
