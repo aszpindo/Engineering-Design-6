@@ -1,5 +1,7 @@
 # Engineering Design VI
- 
+
+## Lab 3 - Python
+
 ## Labs 1 and 2 - Command Line
 Completed labs 1 and 2 
 
