@@ -1,6 +1,11 @@
 # Engineering Design VI
 
 ## Lab 3 - Python
+Completed lab 3 
+
+Screenshots can be found below
+![Lab_2_Screenshot_1.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_2_Screenshot_1.png)
+![Lab_2_Screenshot_2.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_2_Screenshot_2.png)
 
 ## Labs 1 and 2 - Command Line
 Completed labs 1 and 2 
