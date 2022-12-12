@@ -1,7 +1,7 @@
 # Engineering Design VI
 
 ## Lab 6 - Node.js and Pystache
-Completed lab 6
+Completed lab 6 
 Note that "node hello.js" would lead to Error 404 page
 
 Screenshots can be found below
