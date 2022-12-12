@@ -1,5 +1,11 @@
 # Engineering Design VI
 
+## Lab 5 - Paho - MQTT
+Completed lab 5 
+
+Screenshots can be found below
+![Lab_5_Screenshot_1.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_5_Screenshot_1.png)
+
 ## Lab 3 - Python
 Completed lab 3 
 
