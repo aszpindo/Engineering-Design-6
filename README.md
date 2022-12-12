@@ -1,5 +1,14 @@
 # Engineering Design VI
 
+## Lab 6
+Completed lab 6
+Note that "node hello.js" would lead to Error 404 page
+
+Screenshots can be found below
+![Lab_6_Screenshot_1.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_6_Screenshot_1.png)
+![Lab_6_Screenshot_2.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_6_Screenshot_2.png)
+![Lab_6_Screenshot_3.png](https://github.com/aszpindo/Engineering-Design-6/blob/main/Lab_Images/Lab_6_Screenshot_3.png)
+
 ## Lab 5 - Paho - MQTT
 Completed lab 5 
 
